@@ -1,0 +1,36 @@
+{
+    "taskList" : [
+        {
+            "summary": "Get Groceries",
+            "priority" : "High",
+            "createdOn" : "2020-05-24",
+            "dueDate": "2020-05-25",
+            "status": "Done",
+            "description": "need to get groceries"
+        },{
+           "summary": "Watch Movie",
+           "priority" : "Low",
+           "createdOn" : "2020-05-25",
+           "dueDate": "2020-05-29",
+           "status": "Open",
+           "description": ""
+       },
+       {
+        "summary": "Cleaning",
+        "priority" : "Low",
+        "createdOn" : "2020-05-25",
+        "dueDate": "2020-05-28",
+        "status": "Open",
+        "description": ""
+    },{
+        "summary": "Assignment",
+        "priority" : "High",
+        "createdOn" : "2020-05-24",
+        "dueDate": "2020-05-25",
+        "status": "Done",
+        "description": ""
+    }
+    ],
+    "priorities": ["None", "Low", "Medium", "High"],
+    "groupBy": ["None", "Priority", "Created On", "Pending On"]
+}
